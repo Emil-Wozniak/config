@@ -1,5 +1,3 @@
-greeting: 'Hello from client with config'
-
 db:
   connection: postgres
   host: localhost
